@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy Johan antonio conocido como Johansitoweb soy desarrollador de video juegos no code , Diseñador publicitario, desarollado full stark , Desarrollador de aplicaciones hibridas y expecializado en frontend actualmente me encuentro aprendiendo c#
+Soy Johan antonio conocido como Johansitoweb soy desarrollador de video juegos no code , Diseñador publicitario, desarollado full stark , Desarrollador de aplicaciones hibridas y expecializado en frontend actualmente soy frelancer
 
 
 # 💻 Tech Stack:
