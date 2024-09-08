@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy Johan antonio conocido como Johansitoweb soy desarrollador de video juegos no code , Diseñador publicitario, Desarrollador de aplicaciones hibridas con ionic y multiplataforma con flutter y especializado en frontend actualmente trabajo como freelancer creo libros y alticulos de programación me encuetro aprendiendo kotlin
+Soy Johan antonio conocido como Johansitoweb soy desarrollador de video juegos no code , Diseñador publicitario, Ingeniero en aplicaciones para android (ionic, fluter y kotlin) y especializado en frontend actualmente trabajo como freelancer creo libros y alticulos de programación.
 
 
 # 💻 Tech Stack:
