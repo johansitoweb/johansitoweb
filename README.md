@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy johan antonio conocido como johansitoweb soy ingeniero de aplicaciones para android(ionic , fluter y kotlin) y especializado en desarrollo web frontend creo libros y alticulos de programación actualmente trabajo como freelancer.
+Soy johan antonio conocido como johansitoweb soy desarrollador de microsoft , ingeniero de aplicaciones para android(ionic , fluter y kotlin) y  desarrollador web frontend creo libros y alticulos de programación actualmente trabajo como freelancer.
 
 
 # 💻 Tech Stack:
