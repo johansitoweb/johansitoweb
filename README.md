@@ -1,30 +1,6 @@
 # 💫 About Me:
 Soy johan antonio conocido como johansitoweb soy Ingeniero de aplicaciones para android(ionic , fluter y kotlin) y  desarrollador web frontend creo libros y alticulos de programación actualmente trabajo como freelancer.
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-
-<div class="row">
-  <div class="col-sm-3">
-     <img src="https://github.com/user-attachments/assets/c0e3b208-cbab-400b-9be4-515fa9defaf9">
-
-  </div>
-   <div class="col-sm-3">
-      <img src="https://github.com/user-attachments/assets/b6e696ea-c9b8-4776-9054-c7fbc43a3834">
-   
-   </div>
-  <div class="col-sm-3">
-    <img src="(https://github.com/user-attachments/assets/4024976c-e5c8-45c5-8186-52212e5c4ff2">
-   
-  </div> 
-  <div class="col-sm-3">
-    <img src="https://github.com/user-attachments/assets/7d811578-4e5d-4917-a0ac-664a67b15836">
-
-  </div>
-</div>
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/c8d82379-d4e2-41e8-83a2-65792bdb9f56)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Johansitoweb&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
