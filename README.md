@@ -3,7 +3,7 @@ Soy Johan Antonio, conocido como Johansitoweb. Soy Ingeniero de Aplicaciones par
 
 Frecuentemente imparto clases de programación a través de Discord, donde comparto mi conocimiento y pasión por la tecnología con otros entusiastas. Mi enfoque pedagógico incluye el uso de metodologías innovadoras y términos técnicos poco conocidos para enriquecer el aprendizaje de mis estudiantes.
 
-Entre algunos de los grandes proyectos que he realizado se encuentran una aplicación móvil para una veterinaria y un sistema de gestión para una ferretería, entre otros. Actualmente, me encuentro elaborando un libro titulado "Mi Historia como Desarrollador".
+Entre algunos de los grandes proyectos que he realizado se encuentran una aplicación móvil para una veterinaria y un software para la gestión de una ferretería, entre otros. Actualmente, me encuentro elaborando un libro titulado "Mi Historia como Desarrollador".
 
 
 
