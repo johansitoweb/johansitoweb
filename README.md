@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy johan antonio conocido como johansitoweb soy Ingeniero de aplicaciones para android(ionic , fluter y kotlin) , Desarrollador web frontend con esperiencia en el Desarrolo de video  juego con(Godot , GDscript y Gdevelop) <a href="https://github.com/johansitoweb/johansitowebCV/blob/main/cv%20johansitoweb%20(1).pdf" target="_blank">CV</a>.
+Soy johan antonio conocido como johansitoweb soy Ingeniero de aplicaciones para android(ionic , fluter y kotlin) , Desarrollador web frontend con esperiencia en el Desarrollo de video  juego con(Godot , GDscript y Gdevelop) <a href="https://github.com/johansitoweb/johansitowebCV/blob/main/cv%20johansitoweb%20(1).pdf" target="_blank">CV</a>.
 
 # Miniaturas de mis cursos.
 ![image](https://github.com/user-attachments/assets/0d4b4843-3d45-444c-b168-019bdd3474fa)
