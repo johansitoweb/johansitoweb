@@ -7,7 +7,6 @@ Entre algunos de los grandes proyectos que he realizado se encuentran una aplica
 
 
 
- <a href="https://github.com/johansitoweb/johansitowebCV/blob/main/cv%20johansitoweb%20(1).pdf" target="_blank">CV</a>.
 
 # Miniaturas de mis cursos.
 ![image](https://github.com/user-attachments/assets/0d4b4843-3d45-444c-b168-019bdd3474fa)
