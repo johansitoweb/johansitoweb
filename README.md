@@ -5,7 +5,7 @@ Frecuentemente imparto clases de programación a través de Discord, donde compa
 
 Entre algunos de los grandes proyectos que he realizado se encuentran una aplicación móvil para una veterinaria y un sistema de gestión para una ferretería, entre otros. Actualmente, me encuentro elaborando un libro titulado "Mi Historia como Desarrollador".
 
-Espero que esta versión te sea útil. ¿Hay algo más en lo que pueda ayudarte?
+
 
  <a href="https://github.com/johansitoweb/johansitowebCV/blob/main/cv%20johansitoweb%20(1).pdf" target="_blank">CV</a>.
 
