@@ -5,6 +5,8 @@ Frecuentemente imparto clases de programación a través de Discord, donde compa
 
 Entre algunos de los grandes proyectos que he realizado se encuentran una aplicación móvil para una veterinaria y un software para la gestión de una ferretería, entre otros. Actualmente, me encuentro elaborando un libro titulado "Mi Historia como Desarrollador".
 
+Actualmente me encuentro aprendiendo DevOps y Haking etico
+
 
 
 
