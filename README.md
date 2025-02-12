@@ -12,6 +12,10 @@ Entre algunos de los grandes proyectos que he realizado se encuentran una aplica
 
 # start
 
+# Auxiliar Ciberseguridad
+Estudiando...
+Scapy , Requests , Beautiful Soup,Nmap y python
+
 # Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
