@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy Johan Antonio, conocido como Johansitoweb. Soy Fundador y Dueño de la Empresa JoSoftSolutiom, Diseñador Arquitectónico autodidata ,Google Developer, Auxiliar de Ciberseguridad ,Techico en redes, Tester de Software , Diseñador web , Specialized in Mobile Developer. Además, soy Desarrollador Web Frontend con habilidades en la creacion de videojuegos utilizando herramientas como Godot, GDScript y GDevelop.
+Soy Johan Antonio, conocido como Johansitoweb. Soy Fundador y Dueño de la Empresa JoSoftSolutiom, Diseñador Arquitectónico autodidata ,Google Developer, Developer no-code,Auxiliar de Ciberseguridad ,Techico en redes, Tester de Software , Designer mobile , Specialized in Mobile Developer. Además, soy Desarrollador Web Frontend con habilidades en la creacion de videojuegos utilizando herramientas como Godot, GDScript y GDevelop.
 
 Frecuentemente imparto clases de programación a través de Discord, donde comparto mi conocimiento y pasión por la tecnología con otros entusiastas. Mi enfoque pedagógico incluye el uso de metodologías innovadoras y términos técnicos poco conocidos para enriquecer el aprendizaje de mis estudiantes.
 
@@ -45,6 +45,13 @@ Scapy , Requests , Beautiful Soup,Nmap y python
 
  # Full-Stack .NET
  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+ 
+ # Devloper no-code
+ ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+ 
+ # Desginer mobile
+ ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
  
 # Desarrollo de videojuego
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
