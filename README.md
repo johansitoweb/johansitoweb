@@ -1,16 +1,12 @@
 # 💫 About Me:
-Soy Johan Antonio, conocido como Johansitoweb. Soy Fundador y Dueño de la Empresa JoSoftSolutiom, Diseñador Arquitectónico autodidata ,Google Developer, Developer no-code,Auxiliar de Ciberseguridad ,Techico en redes, Tester de Software , Designer mobile , Specialized in Mobile Developer. Además, soy Desarrollador Web Frontend con habilidades en la creacion de videojuegos utilizando herramientas como Godot, GDScript y GDevelop.
-
-Frecuentemente imparto clases de programación a través de Discord, donde comparto mi conocimiento y pasión por la tecnología con otros entusiastas. Mi enfoque pedagógico incluye el uso de metodologías innovadoras y términos técnicos poco conocidos para enriquecer el aprendizaje de mis estudiantes.
-
-Entre algunos de los grandes proyectos que he realizado se encuentran una aplicación móvil para una veterinaria y un software para la gestión de una ferretería, entre otros. Actualmente, me encuentro elaborando un libro titulado "Mi Historia como Desarrollador".
-
+Soy Johan Antonio, tambien conocido como Johansitoweb. Soy Fundador y Dueño de la Empresa JoSoftSolutiom.
+## Creador de contenido....
 
 
 # Miniaturas de mis cursos.
 ![image](https://github.com/user-attachments/assets/0d4b4843-3d45-444c-b168-019bdd3474fa)
 
-# start
+# 💫 Techologias
 
 # Auxiliar Ciberseguridad
 Estudiando...
