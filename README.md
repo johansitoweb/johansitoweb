@@ -1,6 +1,6 @@
 # 💫 About Me:
 Soy Johan Antonio, tambien conocido como Johansitoweb. Soy Fundador y Dueño de la Empresa JoSoftSolutiom.
-## Creador de contenido....
+
 
 
 # Miniaturas de mis cursos.
@@ -9,7 +9,7 @@ Soy Johan Antonio, tambien conocido como Johansitoweb. Soy Fundador y Dueño de 
 # 💫 Techologias
 
 # Auxiliar Ciberseguridad
-Estudiando...
+
 Scapy , Requests , Beautiful Soup,Nmap y python
 
 # Frontend
