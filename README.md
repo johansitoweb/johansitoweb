@@ -1,4 +1,4 @@
-[[# 💫 About Me:
+# 💫 About Me:
 Soy Johan Antonio, tambien conocido como Johansitoweb. Soy Fundador y Dueño de la Empresa JoSoftSolutiom.
 
 
