@@ -1,6 +1,6 @@
 # 💫 About Me:
 Soy Johan Antonio, tambien conocido como Johansitoweb. Soy Fundador y Dueño de la Empresa JoSoftSolutiom expecializado como Movil Developer 
-Product Manager | Estudainte de Ingenieria en sistema
+Product Manager | Estudiante de Ingenieria en sistema
 
 # 💫 Techologias
 
