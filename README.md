@@ -4,7 +4,50 @@ Product Manager y Estudiante de Ingenieria en sistema expecializado como Movil D
 
 correo: mancebojohan97@gmail.com
 
-# Mis libros
+# 👨🏻‍💻 Mis libros 
+
+
+<table align="left" >
+<tr border="none">
+  <td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
+        <img align="center" width=100% src="https://github.com/user-attachments/assets/1030b050-e2f7-4790-84c7-92589d82caa1"   alt="VIDEO" /></a>
+      </p>
+        
+</td>
+<td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
+        <img align="center" width=100% src="https://github.com/user-attachments/assets/1030b050-e2f7-4790-84c7-92589d82caa1"   alt="VIDEO" /></a>
+      </p>
+        
+</td>
+  
+  <td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
+        <img align="center" width=100% src="https://github.com/user-attachments/assets/1030b050-e2f7-4790-84c7-92589d82caa1"   alt="VIDEO" /></a>
+      </p>
+      
+</td>
+
+   <td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/FbQtooM3UIs" title="Go to Source">
+        <img align="center" width=100% src="https://github.com/user-attachments/assets/1030b050-e2f7-4790-84c7-92589d82caa1"   alt="VIDEO" /></a>
+      </p>
+       
+</td>
+  
+</tr>
+</table>
+  </div>
+<br>
+<br><br>
+<br>
+<br><br><br>
+
 
 # Mis videos
 
