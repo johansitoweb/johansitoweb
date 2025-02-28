@@ -9,6 +9,15 @@ correo: mancebojohan97@gmail.com
 # Mis videos
 
 
+# Algunos de mis Grandes Éxitos
+Software para Ferretería
+Sistema de Almacén
+Premio en Hackatón (Ionic Developer)
+Sistema para Agencia de Marketing
+Sistema para Farmacia
+
+
+
 
 
 # Auxiliar Ciberseguridad
