@@ -7,6 +7,7 @@ correo: mancebojohan97@gmail.com
 # 👨🏻‍💻 Mis libros 
 
 
+
 <table align="left" >
 <tr border="none">
   <td width="25%" align="center">
@@ -18,15 +19,15 @@ correo: mancebojohan97@gmail.com
 </td>
 <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
-        <img align="center" width=100% src="https://github.com/user-attachments/assets/1030b050-e2f7-4790-84c7-92589d82caa1"   alt="VIDEO" /></a>
+     <a href="h" title="Go to Source">
+        <img align="center" width=100% src="https://github.com/user-attachments/assets/ee2fecf7-fa21-458b-b465-79794da2c6a3"   alt="VIDEO" /></a>
       </p>
         
 </td>
   
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
+     <a href="h" title="Go to Source">
         <img align="center" width=100% src="https://github.com/user-attachments/assets/1030b050-e2f7-4790-84c7-92589d82caa1"   alt="VIDEO" /></a>
       </p>
       
@@ -34,7 +35,7 @@ correo: mancebojohan97@gmail.com
 
    <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/FbQtooM3UIs" title="Go to Source">
+     <a href="hs" title="Go to Source">
         <img align="center" width=100% src="https://github.com/user-attachments/assets/1030b050-e2f7-4790-84c7-92589d82caa1"   alt="VIDEO" /></a>
       </p>
        
