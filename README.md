@@ -5,6 +5,11 @@ Product Manager| Editor de videos| Techico en Redes |QA tester|Machine Learning 
 
 correo: mancebojohan97@gmail.com
 
+# Idiomas
+### Ingles Principiante
+### Español nativo
+### Italiano basico
+### Portugues Principiante
 # 👨🏻‍💻 Mis libros 
 
 
