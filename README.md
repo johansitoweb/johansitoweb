@@ -42,7 +42,7 @@ correo: mancebojohan97@gmail.com
    <td width="25%" align="center">
     <p align="center">
      <a href="hs" title="Go to Source">
-        <img align="center" width=100% src="https://github.com/user-attachments/assets/64c9e649-c2bf-427d-9c12-13012ff29b53"   alt="VIDEO" /></a>
+        <img align="center" width=100% src="https://github.com/user-attachments/assets/1030b050-e2f7-4790-84c7-92589d82caa1"   alt="VIDEO" /></a>
       </p>
        
 </td>
@@ -57,8 +57,6 @@ correo: mancebojohan97@gmail.com
 
 
 # Mis videos
-
-<h2 >Algunos proyectos👨🏻‍💻</h2>
 
 <table align="left" >
 <tr border="none">
@@ -86,7 +84,7 @@ correo: mancebojohan97@gmail.com
   <td width="25%" align="center">
     <p align="center">
      <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp"   alt="VIDEO" /></a>
+        <img align="center" width=100% src="https://github.com/user-attachments/assets/5392c9d4-7336-4344-a88a-7ec93281afd9"   alt="VIDEO" /></a>
       </p>
     <p align="center">
         <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
@@ -97,7 +95,7 @@ correo: mancebojohan97@gmail.com
    <td width="25%" align="center">
     <p align="center">
      <a href="https://youtu.be/FbQtooM3UIs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp"   alt="VIDEO" /></a>
+        <img align="center" width=100% src="https://github.com/user-attachments/assets/77fe4c59-6498-4183-b2a1-393a324c4161"   alt="VIDEO" /></a>
       </p>
     <p align="center">
         <a href="https://youtu.be/FbQtooM3UIs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
@@ -130,7 +128,7 @@ correo: mancebojohan97@gmail.com
 <td width="25%" align="center">
     <p align="center">
      <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp"   alt="VIDEO" /></a>
+        <img align="center" width=100% src="https://github.com/user-attachments/assets/95cc51ee-a57e-4880-b9fa-eed1f8ff87d8"   alt="VIDEO" /></a>
       </p>
     <p align="center">
         <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
