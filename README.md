@@ -1,7 +1,7 @@
 # 💫 About Me:
 # ⚔ Johan Mancebo ⚔
 Soy Johan Antonio, tambien conocido como Johansitoweb. Soy Fundador y Dueño de JoSoftSolutiom |
-Product Manager| Editor de videos| Techico en Redes |Expert Marketing Digital|Machine Learning Engineer|Auxiliar de Ciberseguridad| Designer Movil| |Desarrollador de RA |Techico en Eletronica|Diseñador de planos Arquitectonicos |Techico en Telecomunicaciones|Blockchain Developer| Prompt Engineering | y Estudiante de Ingenieria en sistema expecializado como Movil Developer. 
+Product Manager| Editor de videos| Techico en Redes |Expert Marketing Digital|Machine Learning Engineer|Auxiliar de Ciberseguridad| Designer Movil| |Desarrollador de RA|Diseñador de planos Arquitectonicos |Techico en Telecomunicaciones|Blockchain Developer| Prompt Engineering | y Estudiante de Ingenieria en sistema expecializado como Movil Developer.....Estudiando security
 
 correo: mancebojohan97@gmail.com
 
