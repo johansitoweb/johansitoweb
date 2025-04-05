@@ -1,6 +1,6 @@
 # 💫 About Me:
 # ⚔ Johan Mancebo ⚔
-Soy Johan Antonio, tambien conocido como Johansitoweb. Soy Fundador y Dueño de JoSoftSolutiom Profesor online de programacion|Techico en Eletronica|Techico en redes|Techico en telecomunicaciones| Desarrollador de robotica vitual|
+Soy Johan Antonio, tambien conocido como Johansitoweb. Soy Fundador y Dueño de JoSoftSolutiom Profesor online de programacion|Techico en Eletronica|Techico en redes|Techico en telecomunicaciones| Desarrollador de robotica vitual|Scrum Master|
 Product Manager| Editor de videos|Expert Marketing Digital|Machine Learning Engineer|Desarrollador de RA|Diseñador de planos Arquitectonicos | Prompt Engineering | y Estudiante de Ingenieria en sistema.
 
 correo: mancebojohan97@gmail.com
