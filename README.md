@@ -1,5 +1,7 @@
 # 💫 About Me:
 # ⚔ Johan Mancebo ⚔
+### Fundador de JoSoftSolutiom y Director de proyecto.
+
 Soy Johan Antonio, tambien conocido como Johansitoweb. Soy Fundador y Dueño de JoSoftSolutiom Fundador de las startup JoSoftMovil y JoSoftIAR|Profesor de programacion|Developer loT|Diseñador Automotriz|Techico en redes|Techico en telecomunicaciones| Developer de robotica virtual|Scrum Master| Analista de sistema|Diseñador Industrial|auxiliar de administracion|
 Product Manager| Editor de videos|Expert Marketing Digital|Machine Learning Engineer|Desarrollador de RA|Diseñador de planos Arquitectonicos| soporte techico #1|pentester web |Consultor de IA| Escritor |Compositor Musical| Diseñador UI-UX| Diseñador grafico| Techico en Telefonica|Prompt Engineering|Techico en Enfermeria |Fotografo |Arquitecto de Automatizacion y de AR| FluterFlow Developer| ArtistA 3D |y Estudiante de Ingenieria en sistema.
 actualmente estoy aprendiendo eletronica
