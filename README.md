@@ -2,8 +2,8 @@
 # ⚔ Johan Mancebo ⚔
 ### Fundador y CEO de JoSoftSolutiom | Director de proyecto| Profesor de programacion| Consultor de IA| Compositor Musical
 
-Soy Johan Antonio, tambien conocido como Johansitoweb. Soy Fundador y CEO de JoSoftSolutiom Fundador de las startup JoSoftMovil y JoSoftIAR| Developer loT|Diseñador Automotriz|Techico en redes|Techico en telecomunicaciones| Developer de robotica virtual|Scrum Master| Analista de sistema|Diseñador Industrial|auxiliar de administracion|
-Product Manager| Editor de videos|Expert Marketing Digital|Machine Learning Engineer|Desarrollador de RA|Diseñador de planos Arquitectonicos| soporte techico #1|pentester web | Escritor | Diseñador UI-UX| Diseñador grafico| Techico en Telefonica|Prompt Engineering|Techico en Enfermeria |Fotografo | Especialista en ofimática|Techico en Telematica| Arquitecto de Automatizacion y de AR| FluterFlow Developer|Entusiasta de sistema envevidos| ArtistA 3D |y Estudiante de Ingenieria en sistema.
+Soy Johan Antonio, tambien conocido como Johansitoweb. Soy Fundador y CEO de JoSoftSolutiom | Developer loT|Diseñador Automotriz|Techico en redes|Techico en telecomunicaciones| Developer de robotica virtual|Scrum Master| Analista de sistema|Diseñador Industrial|
+Product Manager| Editor de videos|Expert Marketing Digital|Desarrollador de RA|Diseñador de planos Arquitectonicos|pentester web | Escritor | Diseñador UI-UX| Diseñador grafico| Techico en Telefonica|Prompt Engineering|Techico en Enfermeria| Especialista en ofimática|Techico en Telematica| FluterFlow Developer|Entusiasta de sistema envevidos| ArtistA 3D |y Estudiante de Ingenieria en sistema.
 actualmente estoy aprendiendo eletronica
 
 correo: mancebojohan97@gmail.com
@@ -61,50 +61,8 @@ correo: mancebojohan97@gmail.com
 
 # Mis videos(muy pronto los enlaces....)
 
-<table align="left" >
-<tr border="none">
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="" title="Go to Source">
-        <img align="center" width=100% src="https://github.com/user-attachments/assets/5f8b8370-f319-4bc2-acee-388d576374bd"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-<td width="25%" align="center">
-    <p align="center">
-     <a href="" title="Go to Source">
-        <img align="center" width=100% src="https://github.com/user-attachments/assets/5d46bbab-0021-4d4c-b244-e635364cff54"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="" /></a>
-    </p>       
-</td>
-  
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
-        <img align="center" width=100% src="https://github.com/user-attachments/assets/5392c9d4-7336-4344-a88a-7ec93281afd9"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
 
-   <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/FbQtooM3UIs" title="Go to Source">
-        <img align="center" width=100% src="https://github.com/user-attachments/assets/77fe4c59-6498-4183-b2a1-393a324c4161"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
+
   
 </tr>
 </table>
